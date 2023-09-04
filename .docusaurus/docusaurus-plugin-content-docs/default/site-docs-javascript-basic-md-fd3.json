@@ -1,0 +1,24 @@
+{
+  "unversionedId": "javascript/basic",
+  "id": "javascript/basic",
+  "title": "基础知识",
+  "description": "typeof",
+  "source": "@site/docs/javascript/basic.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/basic",
+  "permalink": "/tadarim.github.io/docs/javascript/basic",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/basic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set And Map",
+    "permalink": "/tadarim.github.io/docs/javascript/Set-Map"
+  },
+  "next": {
+    "title": "Function",
+    "permalink": "/tadarim.github.io/docs/javascript/函数"
+  }
+}

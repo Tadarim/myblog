@@ -1,0 +1,24 @@
+{
+  "unversionedId": "infra/Babel",
+  "id": "infra/Babel",
+  "title": "Babel",
+  "description": "如果想要了解Babel的底层原理，可以看编译原理一节",
+  "source": "@site/docs/infra/Babel.md",
+  "sourceDirName": "infra",
+  "slug": "/infra/Babel",
+  "permalink": "/tadarim.github.io/docs/infra/Babel",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/infra/Babel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Git",
+    "permalink": "/tadarim.github.io/docs/git"
+  },
+  "next": {
+    "title": "持续集成(CI)",
+    "permalink": "/tadarim.github.io/docs/infra/CI"
+  }
+}

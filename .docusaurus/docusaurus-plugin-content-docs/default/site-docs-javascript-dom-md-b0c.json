@@ -1,0 +1,24 @@
+{
+  "unversionedId": "javascript/DOM",
+  "id": "javascript/DOM",
+  "title": "DOM",
+  "description": "Element",
+  "source": "@site/docs/javascript/DOM.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/DOM",
+  "permalink": "/tadarim.github.io/docs/javascript/DOM",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/DOM.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Class",
+    "permalink": "/tadarim.github.io/docs/javascript/Class"
+  },
+  "next": {
+    "title": "Date",
+    "permalink": "/tadarim.github.io/docs/javascript/Date"
+  }
+}

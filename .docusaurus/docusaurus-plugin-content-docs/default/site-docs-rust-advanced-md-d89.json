@@ -1,0 +1,24 @@
+{
+  "unversionedId": "rust/advanced",
+  "id": "rust/advanced",
+  "title": "进阶",
+  "description": "Unsafe Rust",
+  "source": "@site/docs/rust/advanced.md",
+  "sourceDirName": "rust",
+  "slug": "/rust/advanced",
+  "permalink": "/tadarim.github.io/docs/rust/advanced",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/rust/advanced.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "语法",
+    "permalink": "/tadarim.github.io/docs/rust/"
+  },
+  "next": {
+    "title": "包管理与模块",
+    "permalink": "/tadarim.github.io/docs/rust/modules"
+  }
+}

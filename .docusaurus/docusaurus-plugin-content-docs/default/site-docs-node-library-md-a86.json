@@ -1,0 +1,24 @@
+{
+  "unversionedId": "node/library",
+  "id": "node/library",
+  "title": "第三方库",
+  "description": "bluebird",
+  "source": "@site/docs/node/library.md",
+  "sourceDirName": "node",
+  "slug": "/node/library",
+  "permalink": "/tadarim.github.io/docs/node/library",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/library.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "事件循环",
+    "permalink": "/tadarim.github.io/docs/node/eventloop"
+  },
+  "next": {
+    "title": "模块化",
+    "permalink": "/tadarim.github.io/docs/node/module"
+  }
+}

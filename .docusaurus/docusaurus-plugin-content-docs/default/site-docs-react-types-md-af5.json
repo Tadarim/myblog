@@ -1,0 +1,26 @@
+{
+  "unversionedId": "react/types",
+  "id": "react/types",
+  "title": "types",
+  "description": "参考https://react-typescript-cheatsheet.netlify.app/",
+  "source": "@site/docs/react/types.md",
+  "sourceDirName": "react",
+  "slug": "/react/types",
+  "permalink": "/tadarim.github.io/docs/react/types",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/react/types.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hook",
+    "permalink": "/tadarim.github.io/docs/react/Hook"
+  },
+  "next": {
+    "title": "基础",
+    "permalink": "/tadarim.github.io/docs/react/基础"
+  }
+}

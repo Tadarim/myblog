@@ -1,0 +1,20 @@
+{
+  "unversionedId": "音视频学习",
+  "id": "音视频学习",
+  "title": "音视频学习",
+  "description": "视频参数",
+  "source": "@site/docs/音视频学习.md",
+  "sourceDirName": ".",
+  "slug": "/音视频学习",
+  "permalink": "/tadarim.github.io/docs/音视频学习",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/音视频学习.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "面试题",
+    "permalink": "/tadarim.github.io/docs/面试题"
+  }
+}

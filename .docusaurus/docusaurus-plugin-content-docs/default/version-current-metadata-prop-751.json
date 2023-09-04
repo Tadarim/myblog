@@ -1,0 +1,1143 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/tadarim.github.io/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "HTML",
+        "href": "/tadarim.github.io/docs/HTML",
+        "docId": "HTML"
+      },
+      {
+        "type": "link",
+        "label": "Untitled",
+        "href": "/tadarim.github.io/docs/Untitled",
+        "docId": "Untitled"
+      },
+      {
+        "type": "link",
+        "label": "akara的考验",
+        "href": "/tadarim.github.io/docs/akara的考验",
+        "docId": "akara的考验"
+      },
+      {
+        "type": "link",
+        "label": "浏览器相关",
+        "href": "/tadarim.github.io/docs/browser",
+        "docId": "browser"
+      },
+      {
+        "type": "link",
+        "label": "WebGL",
+        "href": "/tadarim.github.io/docs/canvas",
+        "docId": "canvas"
+      },
+      {
+        "type": "link",
+        "label": "CSS",
+        "href": "/tadarim.github.io/docs/css",
+        "docId": "css"
+      },
+      {
+        "type": "link",
+        "label": "Docker",
+        "href": "/tadarim.github.io/docs/docker",
+        "docId": "docker"
+      },
+      {
+        "type": "link",
+        "label": "Git",
+        "href": "/tadarim.github.io/docs/git",
+        "docId": "git"
+      },
+      {
+        "type": "category",
+        "label": "infra",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Babel",
+            "href": "/tadarim.github.io/docs/infra/Babel",
+            "docId": "infra/Babel"
+          },
+          {
+            "type": "link",
+            "label": "持续集成(CI)",
+            "href": "/tadarim.github.io/docs/infra/CI",
+            "docId": "infra/CI"
+          },
+          {
+            "type": "link",
+            "label": "ESLint And Prettier",
+            "href": "/tadarim.github.io/docs/infra/ESLint-and-Prettier",
+            "docId": "infra/ESLint-and-Prettier"
+          },
+          {
+            "type": "link",
+            "label": "PostCSS",
+            "href": "/tadarim.github.io/docs/infra/PostCSS",
+            "docId": "infra/PostCSS"
+          },
+          {
+            "type": "link",
+            "label": "Prettier",
+            "href": "/tadarim.github.io/docs/infra/Prettier",
+            "docId": "infra/Prettier"
+          },
+          {
+            "type": "link",
+            "label": "Rollup",
+            "href": "/tadarim.github.io/docs/infra/Rollup",
+            "docId": "infra/Rollup"
+          },
+          {
+            "type": "link",
+            "label": "前端测试",
+            "href": "/tadarim.github.io/docs/infra/Test",
+            "docId": "infra/Test"
+          },
+          {
+            "type": "link",
+            "label": "Webpack",
+            "href": "/tadarim.github.io/docs/infra/Webpack",
+            "docId": "infra/Webpack"
+          },
+          {
+            "type": "link",
+            "label": "前端工程化",
+            "href": "/tadarim.github.io/docs/infra/前端工程化",
+            "docId": "infra/前端工程化"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "JavaScript",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Ajax And Fetch",
+            "href": "/tadarim.github.io/docs/javascript/AJAX",
+            "docId": "javascript/AJAX"
+          },
+          {
+            "type": "link",
+            "label": "BOM",
+            "href": "/tadarim.github.io/docs/javascript/BOM",
+            "docId": "javascript/BOM"
+          },
+          {
+            "type": "link",
+            "label": "Class",
+            "href": "/tadarim.github.io/docs/javascript/Class",
+            "docId": "javascript/Class"
+          },
+          {
+            "type": "link",
+            "label": "DOM",
+            "href": "/tadarim.github.io/docs/javascript/DOM",
+            "docId": "javascript/DOM"
+          },
+          {
+            "type": "link",
+            "label": "Date",
+            "href": "/tadarim.github.io/docs/javascript/Date",
+            "docId": "javascript/Date"
+          },
+          {
+            "type": "link",
+            "label": "Generator",
+            "href": "/tadarim.github.io/docs/javascript/Generator",
+            "docId": "javascript/Generator"
+          },
+          {
+            "type": "link",
+            "label": "Promise",
+            "href": "/tadarim.github.io/docs/javascript/Promise",
+            "docId": "javascript/Promise"
+          },
+          {
+            "type": "link",
+            "label": "Proxy And Reflect",
+            "href": "/tadarim.github.io/docs/javascript/Proxy",
+            "docId": "javascript/Proxy"
+          },
+          {
+            "type": "link",
+            "label": "Set And Map",
+            "href": "/tadarim.github.io/docs/javascript/Set-Map",
+            "docId": "javascript/Set-Map"
+          },
+          {
+            "type": "link",
+            "label": "基础知识",
+            "href": "/tadarim.github.io/docs/javascript/basic",
+            "docId": "javascript/basic"
+          },
+          {
+            "type": "link",
+            "label": "Function",
+            "href": "/tadarim.github.io/docs/javascript/函数",
+            "docId": "javascript/函数"
+          },
+          {
+            "type": "link",
+            "label": "Object",
+            "href": "/tadarim.github.io/docs/javascript/对象",
+            "docId": "javascript/对象"
+          },
+          {
+            "type": "link",
+            "label": "Array",
+            "href": "/tadarim.github.io/docs/javascript/数组",
+            "docId": "javascript/数组"
+          },
+          {
+            "type": "link",
+            "label": "杂项",
+            "href": "/tadarim.github.io/docs/javascript/杂项",
+            "docId": "javascript/杂项"
+          },
+          {
+            "type": "link",
+            "label": "RegExp",
+            "href": "/tadarim.github.io/docs/javascript/正则",
+            "docId": "javascript/正则"
+          },
+          {
+            "type": "link",
+            "label": "Decorator",
+            "href": "/tadarim.github.io/docs/javascript/装饰器",
+            "docId": "javascript/装饰器"
+          }
+        ],
+        "href": "/tadarim.github.io/docs/javascript/"
+      },
+      {
+        "type": "link",
+        "label": "koa",
+        "href": "/tadarim.github.io/docs/koa",
+        "docId": "koa"
+      },
+      {
+        "type": "link",
+        "label": "Linux",
+        "href": "/tadarim.github.io/docs/linux",
+        "docId": "linux"
+      },
+      {
+        "type": "link",
+        "label": "MongoDB",
+        "href": "/tadarim.github.io/docs/mongodb",
+        "docId": "mongodb"
+      },
+      {
+        "type": "link",
+        "label": "Mysql",
+        "href": "/tadarim.github.io/docs/mysql",
+        "docId": "mysql"
+      },
+      {
+        "type": "category",
+        "label": "Node",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "内置模块",
+            "href": "/tadarim.github.io/docs/node/build-in-modules",
+            "docId": "node/build-in-modules"
+          },
+          {
+            "type": "link",
+            "label": "事件循环",
+            "href": "/tadarim.github.io/docs/node/eventloop",
+            "docId": "node/eventloop"
+          },
+          {
+            "type": "link",
+            "label": "第三方库",
+            "href": "/tadarim.github.io/docs/node/library",
+            "docId": "node/library"
+          },
+          {
+            "type": "link",
+            "label": "模块化",
+            "href": "/tadarim.github.io/docs/node/module",
+            "docId": "node/module"
+          },
+          {
+            "type": "link",
+            "label": "NPM",
+            "href": "/tadarim.github.io/docs/node/npm",
+            "docId": "node/npm"
+          },
+          {
+            "type": "link",
+            "label": "pnpm",
+            "href": "/tadarim.github.io/docs/node/pnpm",
+            "docId": "node/pnpm"
+          },
+          {
+            "type": "link",
+            "label": "发布模块",
+            "href": "/tadarim.github.io/docs/node/publish",
+            "docId": "node/publish"
+          },
+          {
+            "type": "link",
+            "label": "二进制与编码",
+            "href": "/tadarim.github.io/docs/node/stream",
+            "docId": "node/stream"
+          }
+        ],
+        "href": "/tadarim.github.io/docs/node/"
+      },
+      {
+        "type": "link",
+        "label": "前端博客",
+        "href": "/tadarim.github.io/docs/others",
+        "docId": "others"
+      },
+      {
+        "type": "link",
+        "label": "php",
+        "href": "/tadarim.github.io/docs/php",
+        "docId": "php"
+      },
+      {
+        "type": "category",
+        "label": "React",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Hook",
+            "href": "/tadarim.github.io/docs/react/Hook",
+            "docId": "react/Hook"
+          },
+          {
+            "type": "link",
+            "label": "types",
+            "href": "/tadarim.github.io/docs/react/types",
+            "docId": "react/types"
+          },
+          {
+            "type": "link",
+            "label": "基础",
+            "href": "/tadarim.github.io/docs/react/基础",
+            "docId": "react/基础"
+          },
+          {
+            "type": "link",
+            "label": "第三方库",
+            "href": "/tadarim.github.io/docs/react/第三方库",
+            "docId": "react/第三方库"
+          },
+          {
+            "type": "link",
+            "label": "底层原理",
+            "href": "/tadarim.github.io/docs/react/进阶",
+            "docId": "react/进阶"
+          }
+        ],
+        "href": "/tadarim.github.io/docs/react/"
+      },
+      {
+        "type": "link",
+        "label": "react-vs-vue",
+        "href": "/tadarim.github.io/docs/react-vs-vue",
+        "docId": "react-vs-vue"
+      },
+      {
+        "type": "category",
+        "label": "语法",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "进阶",
+            "href": "/tadarim.github.io/docs/rust/advanced",
+            "docId": "rust/advanced"
+          },
+          {
+            "type": "link",
+            "label": "包管理与模块",
+            "href": "/tadarim.github.io/docs/rust/modules",
+            "docId": "rust/modules"
+          },
+          {
+            "type": "link",
+            "label": "安装",
+            "href": "/tadarim.github.io/docs/rust/setup",
+            "docId": "rust/setup"
+          },
+          {
+            "type": "link",
+            "label": "Tauri",
+            "href": "/tadarim.github.io/docs/rust/tauri",
+            "docId": "rust/tauri"
+          },
+          {
+            "type": "link",
+            "label": "Rust + Web",
+            "href": "/tadarim.github.io/docs/rust/wasm",
+            "docId": "rust/wasm"
+          }
+        ],
+        "href": "/tadarim.github.io/docs/rust/"
+      },
+      {
+        "type": "category",
+        "label": "TypeScript",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "基础",
+            "href": "/tadarim.github.io/docs/typescript/basic",
+            "docId": "typescript/basic"
+          },
+          {
+            "type": "link",
+            "label": "tsconfig.json",
+            "href": "/tadarim.github.io/docs/typescript/config",
+            "docId": "typescript/config"
+          },
+          {
+            "type": "link",
+            "label": "声明文件",
+            "href": "/tadarim.github.io/docs/typescript/declaration",
+            "docId": "typescript/declaration"
+          },
+          {
+            "type": "link",
+            "label": "声明合并",
+            "href": "/tadarim.github.io/docs/typescript/声明合并",
+            "docId": "typescript/声明合并"
+          },
+          {
+            "type": "link",
+            "label": "工具类型实现",
+            "href": "/tadarim.github.io/docs/typescript/工具类型",
+            "docId": "typescript/工具类型"
+          },
+          {
+            "type": "link",
+            "label": "版本更新日志",
+            "href": "/tadarim.github.io/docs/typescript/版本更新日志.mdx",
+            "docId": "typescript/版本更新日志.mdx"
+          },
+          {
+            "type": "link",
+            "label": "类型守卫",
+            "href": "/tadarim.github.io/docs/typescript/类型守卫",
+            "docId": "typescript/类型守卫"
+          },
+          {
+            "type": "link",
+            "label": "类型操作",
+            "href": "/tadarim.github.io/docs/typescript/类型操作.mdx",
+            "docId": "typescript/类型操作.mdx"
+          },
+          {
+            "type": "link",
+            "label": "类型断言",
+            "href": "/tadarim.github.io/docs/typescript/类型断言",
+            "docId": "typescript/类型断言"
+          },
+          {
+            "type": "link",
+            "label": "逆变与协变",
+            "href": "/tadarim.github.io/docs/typescript/逆变与协变",
+            "docId": "typescript/逆变与协变"
+          }
+        ],
+        "href": "/tadarim.github.io/docs/typescript/"
+      },
+      {
+        "type": "link",
+        "label": "Vue",
+        "href": "/tadarim.github.io/docs/vue",
+        "docId": "vue"
+      },
+      {
+        "type": "link",
+        "label": "Three.js",
+        "href": "/tadarim.github.io/docs/webgl",
+        "docId": "webgl"
+      },
+      {
+        "type": "link",
+        "label": "WebSocket",
+        "href": "/tadarim.github.io/docs/websocket",
+        "docId": "websocket"
+      },
+      {
+        "type": "link",
+        "label": "代码段记录",
+        "href": "/tadarim.github.io/docs/代码段记录",
+        "docId": "代码段记录"
+      },
+      {
+        "type": "link",
+        "label": "其它",
+        "href": "/tadarim.github.io/docs/其它",
+        "docId": "其它"
+      },
+      {
+        "type": "link",
+        "label": "写在前面",
+        "href": "/tadarim.github.io/docs/写在前面",
+        "docId": "写在前面"
+      },
+      {
+        "type": "link",
+        "label": "前端安全",
+        "href": "/tadarim.github.io/docs/前端安全",
+        "docId": "前端安全"
+      },
+      {
+        "type": "link",
+        "label": "异常处理",
+        "href": "/tadarim.github.io/docs/异常处理",
+        "docId": "异常处理"
+      },
+      {
+        "type": "link",
+        "label": "排序算法",
+        "href": "/tadarim.github.io/docs/排序",
+        "docId": "排序"
+      },
+      {
+        "type": "link",
+        "label": "数据结构",
+        "href": "/tadarim.github.io/docs/数据结构",
+        "docId": "数据结构"
+      },
+      {
+        "type": "link",
+        "label": "第三方库",
+        "href": "/tadarim.github.io/docs/第三方库",
+        "docId": "第三方库"
+      },
+      {
+        "type": "link",
+        "label": "编程题",
+        "href": "/tadarim.github.io/docs/编程题",
+        "docId": "编程题"
+      },
+      {
+        "type": "link",
+        "label": "编译原理",
+        "href": "/tadarim.github.io/docs/编译原理",
+        "docId": "编译原理"
+      },
+      {
+        "type": "link",
+        "label": "性能优化",
+        "href": "/tadarim.github.io/docs/网站优化",
+        "docId": "网站优化"
+      },
+      {
+        "type": "link",
+        "label": "计算机网络",
+        "href": "/tadarim.github.io/docs/计算机网络",
+        "docId": "计算机网络"
+      },
+      {
+        "type": "link",
+        "label": "设计模式",
+        "href": "/tadarim.github.io/docs/设计模式",
+        "docId": "设计模式"
+      },
+      {
+        "type": "link",
+        "label": "面试题",
+        "href": "/tadarim.github.io/docs/面试题",
+        "docId": "面试题"
+      },
+      {
+        "type": "link",
+        "label": "音视频学习",
+        "href": "/tadarim.github.io/docs/音视频学习",
+        "docId": "音视频学习"
+      }
+    ]
+  },
+  "docs": {
+    "编程题": {
+      "id": "编程题",
+      "title": "编程题",
+      "description": "树",
+      "sidebar": "tutorialSidebar"
+    },
+    "编译原理": {
+      "id": "编译原理",
+      "title": "编译原理",
+      "description": "编译器（compiler）",
+      "sidebar": "tutorialSidebar"
+    },
+    "代码段记录": {
+      "id": "代码段记录",
+      "title": "代码段记录",
+      "description": "代码记录",
+      "sidebar": "tutorialSidebar"
+    },
+    "第三方库": {
+      "id": "第三方库",
+      "title": "第三方库",
+      "description": "Three Party Library",
+      "sidebar": "tutorialSidebar"
+    },
+    "计算机网络": {
+      "id": "计算机网络",
+      "title": "计算机网络",
+      "description": "状态码",
+      "sidebar": "tutorialSidebar"
+    },
+    "面试题": {
+      "id": "面试题",
+      "title": "面试题",
+      "description": "面试题",
+      "sidebar": "tutorialSidebar"
+    },
+    "排序": {
+      "id": "排序",
+      "title": "排序算法",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "其它": {
+      "id": "其它",
+      "title": "其它",
+      "description": "进程间通信",
+      "sidebar": "tutorialSidebar"
+    },
+    "前端安全": {
+      "id": "前端安全",
+      "title": "前端安全",
+      "description": "跨站脚本攻击（XSS）",
+      "sidebar": "tutorialSidebar"
+    },
+    "设计模式": {
+      "id": "设计模式",
+      "title": "设计模式",
+      "description": "单例模式",
+      "sidebar": "tutorialSidebar"
+    },
+    "数据结构": {
+      "id": "数据结构",
+      "title": "数据结构",
+      "description": "二叉树",
+      "sidebar": "tutorialSidebar"
+    },
+    "网站优化": {
+      "id": "网站优化",
+      "title": "性能优化",
+      "description": "编码心得",
+      "sidebar": "tutorialSidebar"
+    },
+    "写在前面": {
+      "id": "写在前面",
+      "title": "写在前面",
+      "description": "前言",
+      "sidebar": "tutorialSidebar"
+    },
+    "异常处理": {
+      "id": "异常处理",
+      "title": "异常处理",
+      "description": "抛出异常",
+      "sidebar": "tutorialSidebar"
+    },
+    "音视频学习": {
+      "id": "音视频学习",
+      "title": "音视频学习",
+      "description": "视频参数",
+      "sidebar": "tutorialSidebar"
+    },
+    "akara的考验": {
+      "id": "akara的考验",
+      "title": "akara的考验",
+      "description": "代码记录",
+      "sidebar": "tutorialSidebar"
+    },
+    "browser": {
+      "id": "browser",
+      "title": "浏览器相关",
+      "description": "跨域",
+      "sidebar": "tutorialSidebar"
+    },
+    "canvas": {
+      "id": "canvas",
+      "title": "WebGL",
+      "description": "浏览器所提供的WebGL给予了我们图形绘制的能力，WebGL本质上基于OpenGL ES2.0，而后者实际上是OpenGL的一个精简子集，缺少了一部分的能力（如几何着色器等）。",
+      "sidebar": "tutorialSidebar"
+    },
+    "css": {
+      "id": "css",
+      "title": "CSS",
+      "description": "基础",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker": {
+      "id": "docker",
+      "title": "Docker",
+      "description": "安装",
+      "sidebar": "tutorialSidebar"
+    },
+    "git": {
+      "id": "git",
+      "title": "Git",
+      "description": "基础命令",
+      "sidebar": "tutorialSidebar"
+    },
+    "HTML": {
+      "id": "HTML",
+      "title": "HTML",
+      "description": "浏览器解析流程",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/前端工程化": {
+      "id": "infra/前端工程化",
+      "title": "前端工程化",
+      "description": "配置文件",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Babel": {
+      "id": "infra/Babel",
+      "title": "Babel",
+      "description": "如果想要了解Babel的底层原理，可以看编译原理一节",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/CI": {
+      "id": "infra/CI",
+      "title": "持续集成(CI)",
+      "description": "市面上存在多款开源的持续集成工具，如Jenkins、travis-ci、Github Action，本博客就是借助travis-ci搭建的，而个人感觉Github Action很明显要更加优秀。",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/ESLint-and-Prettier": {
+      "id": "infra/ESLint-and-Prettier",
+      "title": "ESLint And Prettier",
+      "description": "ESLint",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/PostCSS": {
+      "id": "infra/PostCSS",
+      "title": "PostCSS",
+      "description": "postcss提供了CSS代码的编译功能；postcss-cli允许我们在命令行进行编译；而我们大多数情况是在webpack中搭配使用postcss，此时需要额外安装postcss-loader。",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Prettier": {
+      "id": "infra/Prettier",
+      "title": "Prettier",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Rollup": {
+      "id": "infra/Rollup",
+      "title": "Rollup",
+      "description": "Webpack作为一个成熟的构建工具被广泛运用在项目的开发当中，而如果我们只是想要开发一个第三方模块，或许Rollup是个不错的选择。",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Test": {
+      "id": "infra/Test",
+      "title": "前端测试",
+      "description": "我们通常会使用console.log(fn())来测试函数输出是否符合预期，而这种做法有几点缺陷：",
+      "sidebar": "tutorialSidebar"
+    },
+    "infra/Webpack": {
+      "id": "infra/Webpack",
+      "title": "Webpack",
+      "description": "Setup",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/对象": {
+      "id": "javascript/对象",
+      "title": "Object",
+      "description": "new操作符",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/函数": {
+      "id": "javascript/函数",
+      "title": "Function",
+      "description": "函数防抖",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/数组": {
+      "id": "javascript/数组",
+      "title": "Array",
+      "description": "数组判断",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/杂项": {
+      "id": "javascript/杂项",
+      "title": "杂项",
+      "description": "Graphql",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/正则": {
+      "id": "javascript/正则",
+      "title": "RegExp",
+      "description": "正则表达式中分组可以分为捕获分组和非捕获分组。",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/装饰器": {
+      "id": "javascript/装饰器",
+      "title": "Decorator",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/AJAX": {
+      "id": "javascript/AJAX",
+      "title": "Ajax And Fetch",
+      "description": "Ajax",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/basic": {
+      "id": "javascript/basic",
+      "title": "基础知识",
+      "description": "typeof",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/BOM": {
+      "id": "javascript/BOM",
+      "title": "BOM",
+      "description": "window",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Class": {
+      "id": "javascript/Class",
+      "title": "Class",
+      "description": "在以往构造函数的写法中，实例的属性都是执行构造函数时添加的；而通过这种新写法，在执行构造函数之前，实例已经拥有该属性了（以上代码属性的值为undefined，我们也可以最开始的时候就赋值，如：",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Date": {
+      "id": "javascript/Date",
+      "title": "Date",
+      "description": "getTime()",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/DOM": {
+      "id": "javascript/DOM",
+      "title": "DOM",
+      "description": "Element",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Generator": {
+      "id": "javascript/Generator",
+      "title": "Generator",
+      "description": "Generator是种特殊的函数，也可以叫做遍历器生成函数，其特殊在",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/javascript": {
+      "id": "javascript/javascript",
+      "title": "JavaScript",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Promise": {
+      "id": "javascript/Promise",
+      "title": "Promise",
+      "description": "核心代码",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Proxy": {
+      "id": "javascript/Proxy",
+      "title": "Proxy And Reflect",
+      "description": "Proxy",
+      "sidebar": "tutorialSidebar"
+    },
+    "javascript/Set-Map": {
+      "id": "javascript/Set-Map",
+      "title": "Set And Map",
+      "description": "Set",
+      "sidebar": "tutorialSidebar"
+    },
+    "koa": {
+      "id": "koa",
+      "title": "koa",
+      "description": "Koa",
+      "sidebar": "tutorialSidebar"
+    },
+    "linux": {
+      "id": "linux",
+      "title": "Linux",
+      "description": "完善中",
+      "sidebar": "tutorialSidebar"
+    },
+    "mongodb": {
+      "id": "mongodb",
+      "title": "MongoDB",
+      "description": "常用命令",
+      "sidebar": "tutorialSidebar"
+    },
+    "mysql": {
+      "id": "mysql",
+      "title": "Mysql",
+      "description": "主要是记一些API，记忆力下降容易忘",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/build-in-modules": {
+      "id": "node/build-in-modules",
+      "title": "内置模块",
+      "description": "http模块",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/eventloop": {
+      "id": "node/eventloop",
+      "title": "事件循环",
+      "description": "浏览器和Node环境都存在事件循环这一概念，但因为它们基于不同的架构所以实现原理也有些许不同，比如浏览器环境的事件循环是通过主线程和工作线程之间的调度实现的。另外，在Node的 11.0版本的发布之后，同一段代码在两个不同环境的表现也越来越相似了，所以在这里我会主要以浏览器环境介绍事件循环的原理。",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/library": {
+      "id": "node/library",
+      "title": "第三方库",
+      "description": "bluebird",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/module": {
+      "id": "node/module",
+      "title": "模块化",
+      "description": "立即执行函数（IIFE）",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/node": {
+      "id": "node/node",
+      "title": "Node",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/npm": {
+      "id": "node/npm",
+      "title": "NPM",
+      "description": ".npmrc",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/pnpm": {
+      "id": "node/pnpm",
+      "title": "pnpm",
+      "description": "相较于npm和yarn，pnpm通过其独特的依赖管理模式解决了两大长期困扰着开发者的问题：幽灵依赖和NPM分身，除此之外还在依赖的安装速度上得到了大幅的提升。",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/publish": {
+      "id": "node/publish",
+      "title": "发布模块",
+      "description": "通常会编译多份产物",
+      "sidebar": "tutorialSidebar"
+    },
+    "node/stream": {
+      "id": "node/stream",
+      "title": "二进制与编码",
+      "description": "进制转换",
+      "sidebar": "tutorialSidebar"
+    },
+    "others": {
+      "id": "others",
+      "title": "前端博客",
+      "description": "[toc]",
+      "sidebar": "tutorialSidebar"
+    },
+    "php": {
+      "id": "php",
+      "title": "php",
+      "description": "大学时候记的笔记，如今PHP已死",
+      "sidebar": "tutorialSidebar"
+    },
+    "react-vs-vue": {
+      "id": "react-vs-vue",
+      "title": "react-vs-vue",
+      "description": "React-vs-Vue",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/第三方库": {
+      "id": "react/第三方库",
+      "title": "第三方库",
+      "description": "redux",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/基础": {
+      "id": "react/基础",
+      "title": "基础",
+      "description": "组件",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/进阶": {
+      "id": "react/进阶",
+      "title": "底层原理",
+      "description": "Fiber架构",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/Hook": {
+      "id": "react/Hook",
+      "title": "Hook",
+      "description": "一个组件从创建到销毁，中间会经历无数次重新渲染（渲染指调用函数生成虚拟DOM，通过Diff操作真实DOM），多次函数调用自然意味着会存在多个函数作用域。",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/React": {
+      "id": "react/React",
+      "title": "React",
+      "description": "虚拟DOM",
+      "sidebar": "tutorialSidebar"
+    },
+    "react/types": {
+      "id": "react/types",
+      "title": "types",
+      "description": "参考https://react-typescript-cheatsheet.netlify.app/",
+      "sidebar": "tutorialSidebar"
+    },
+    "rust/advanced": {
+      "id": "rust/advanced",
+      "title": "进阶",
+      "description": "Unsafe Rust",
+      "sidebar": "tutorialSidebar"
+    },
+    "rust/index": {
+      "id": "rust/index",
+      "title": "语法",
+      "description": "常量",
+      "sidebar": "tutorialSidebar"
+    },
+    "rust/modules": {
+      "id": "rust/modules",
+      "title": "包管理与模块",
+      "description": "Rust中的Cargo提供了类似Node中NPM的能力，包括项目的初始化、模块的安装与管理、便捷的脚本命令等功能。",
+      "sidebar": "tutorialSidebar"
+    },
+    "rust/setup": {
+      "id": "rust/setup",
+      "title": "安装",
+      "description": "rustup（rust版本管理）",
+      "sidebar": "tutorialSidebar"
+    },
+    "rust/tauri": {
+      "id": "rust/tauri",
+      "title": "Tauri",
+      "description": "Tauri是基于Rust实现的多平台App解决方案，相较于Electron自带Chromiun和Node的臃肿，Tauri应用的体积非常小，这得益于Tauri使用操作系统所自带的渲染器（或者说WebView）。",
+      "sidebar": "tutorialSidebar"
+    },
+    "rust/wasm": {
+      "id": "rust/wasm",
+      "title": "Rust + Web",
+      "description": "目前Rust有两种方式运用在泛前端领域，分别是WebAssembly和Node-API",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/版本更新日志.mdx": {
+      "id": "typescript/版本更新日志.mdx",
+      "title": "版本更新日志",
+      "description": "从TypeScript官方版本日志中列举一些日常工作中可能会高频使用的功能。",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/工具类型": {
+      "id": "typescript/工具类型",
+      "title": "工具类型实现",
+      "description": "内置类型",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/类型操作.mdx": {
+      "id": "typescript/类型操作.mdx",
+      "title": "类型操作",
+      "description": "typeof",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/类型断言": {
+      "id": "typescript/类型断言",
+      "title": "类型断言",
+      "description": "const assertion",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/类型守卫": {
+      "id": "typescript/类型守卫",
+      "title": "类型守卫",
+      "description": "TypeScript的Control Flow Analysis（控制流分析）能够根据代码逻辑把联合类型narrow到一个更小范围的类型，同时对于unknown的类型我们也可以narrow成一个更具体的类型，这样的代码类型一般称为类型守卫（type guard）",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/逆变与协变": {
+      "id": "typescript/逆变与协变",
+      "title": "逆变与协变",
+      "description": "子类型",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/声明合并": {
+      "id": "typescript/声明合并",
+      "title": "声明合并",
+      "description": "Merging Interfaces",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/basic": {
+      "id": "typescript/basic",
+      "title": "基础",
+      "description": "类型推导",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/config": {
+      "id": "typescript/config",
+      "title": "tsconfig.json",
+      "description": "compilerOptions",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/declaration": {
+      "id": "typescript/declaration",
+      "title": "声明文件",
+      "description": "相比于JavaScript，TypeScript存在着变量上下文和类型上下文，如当index.ts被编译成index.js和index.d.ts，index.js包含着变量上下文，而index.d.ts包含着类型上下文（包括变量的声明和类型）",
+      "sidebar": "tutorialSidebar"
+    },
+    "typescript/typescript": {
+      "id": "typescript/typescript",
+      "title": "TypeScript",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Untitled": {
+      "id": "Untitled",
+      "title": "Untitled",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "vue": {
+      "id": "vue",
+      "title": "Vue",
+      "description": "作者的重心已经完全偏向React技术栈，本章节的内容可能和最新版本的Vue有部分出入",
+      "sidebar": "tutorialSidebar"
+    },
+    "webgl": {
+      "id": "webgl",
+      "title": "Three.js",
+      "description": "更多代码案例",
+      "sidebar": "tutorialSidebar"
+    },
+    "websocket": {
+      "id": "websocket",
+      "title": "WebSocket",
+      "description": "基本用法",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "node/build-in-modules",
+  "id": "node/build-in-modules",
+  "title": "内置模块",
+  "description": "http模块",
+  "source": "@site/docs/node/build-in-modules.md",
+  "sourceDirName": "node",
+  "slug": "/node/build-in-modules",
+  "permalink": "/tadarim.github.io/docs/node/build-in-modules",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/build-in-modules.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Node",
+    "permalink": "/tadarim.github.io/docs/node/"
+  },
+  "next": {
+    "title": "事件循环",
+    "permalink": "/tadarim.github.io/docs/node/eventloop"
+  }
+}

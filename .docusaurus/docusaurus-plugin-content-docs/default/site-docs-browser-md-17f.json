@@ -1,0 +1,26 @@
+{
+  "unversionedId": "browser",
+  "id": "browser",
+  "title": "浏览器相关",
+  "description": "跨域",
+  "source": "@site/docs/browser.md",
+  "sourceDirName": ".",
+  "slug": "/browser",
+  "permalink": "/tadarim.github.io/docs/browser",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/browser.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "akara的考验",
+    "permalink": "/tadarim.github.io/docs/akara的考验"
+  },
+  "next": {
+    "title": "WebGL",
+    "permalink": "/tadarim.github.io/docs/canvas"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "permalink": "/tadarim.github.io/blog/面经",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/面经.md",
+  "source": "@site/blog/面经.md",
+  "title": "面经",
+  "description": "实习面经",
+  "date": "2023-09-04T03:16:43.180Z",
+  "formattedDate": "2023年9月4日",
+  "tags": [],
+  "readingTime": 32.865,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "sidebar": "auto",
+    "sidebarDepth": 2
+  }
+}

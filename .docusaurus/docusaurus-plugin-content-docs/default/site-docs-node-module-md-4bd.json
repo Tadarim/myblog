@@ -1,0 +1,24 @@
+{
+  "unversionedId": "node/module",
+  "id": "node/module",
+  "title": "模块化",
+  "description": "立即执行函数（IIFE）",
+  "source": "@site/docs/node/module.md",
+  "sourceDirName": "node",
+  "slug": "/node/module",
+  "permalink": "/tadarim.github.io/docs/node/module",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/node/module.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "第三方库",
+    "permalink": "/tadarim.github.io/docs/node/library"
+  },
+  "next": {
+    "title": "NPM",
+    "permalink": "/tadarim.github.io/docs/node/npm"
+  }
+}

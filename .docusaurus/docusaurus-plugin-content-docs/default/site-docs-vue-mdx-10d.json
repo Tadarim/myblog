@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vue",
+  "id": "vue",
+  "title": "Vue",
+  "description": "作者的重心已经完全偏向React技术栈，本章节的内容可能和最新版本的Vue有部分出入",
+  "source": "@site/docs/vue.mdx",
+  "sourceDirName": ".",
+  "slug": "/vue",
+  "permalink": "/tadarim.github.io/docs/vue",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vue.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "逆变与协变",
+    "permalink": "/tadarim.github.io/docs/typescript/逆变与协变"
+  },
+  "next": {
+    "title": "Three.js",
+    "permalink": "/tadarim.github.io/docs/webgl"
+  }
+}

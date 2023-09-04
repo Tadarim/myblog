@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mongodb",
+  "id": "mongodb",
+  "title": "MongoDB",
+  "description": "常用命令",
+  "source": "@site/docs/mongodb.md",
+  "sourceDirName": ".",
+  "slug": "/mongodb",
+  "permalink": "/tadarim.github.io/docs/mongodb",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mongodb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/tadarim.github.io/docs/linux"
+  },
+  "next": {
+    "title": "Mysql",
+    "permalink": "/tadarim.github.io/docs/mysql"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "linux",
+  "id": "linux",
+  "title": "Linux",
+  "description": "完善中",
+  "source": "@site/docs/linux.md",
+  "sourceDirName": ".",
+  "slug": "/linux",
+  "permalink": "/tadarim.github.io/docs/linux",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/linux.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebarDepth": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "koa",
+    "permalink": "/tadarim.github.io/docs/koa"
+  },
+  "next": {
+    "title": "MongoDB",
+    "permalink": "/tadarim.github.io/docs/mongodb"
+  }
+}

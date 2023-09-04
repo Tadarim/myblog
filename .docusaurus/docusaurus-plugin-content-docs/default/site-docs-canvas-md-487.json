@@ -1,0 +1,24 @@
+{
+  "unversionedId": "canvas",
+  "id": "canvas",
+  "title": "WebGL",
+  "description": "浏览器所提供的WebGL给予了我们图形绘制的能力，WebGL本质上基于OpenGL ES2.0，而后者实际上是OpenGL的一个精简子集，缺少了一部分的能力（如几何着色器等）。",
+  "source": "@site/docs/canvas.md",
+  "sourceDirName": ".",
+  "slug": "/canvas",
+  "permalink": "/tadarim.github.io/docs/canvas",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/canvas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "浏览器相关",
+    "permalink": "/tadarim.github.io/docs/browser"
+  },
+  "next": {
+    "title": "CSS",
+    "permalink": "/tadarim.github.io/docs/css"
+  }
+}

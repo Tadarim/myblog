@@ -1,0 +1,24 @@
+{
+  "unversionedId": "typescript/config",
+  "id": "typescript/config",
+  "title": "tsconfig.json",
+  "description": "compilerOptions",
+  "source": "@site/docs/typescript/config.md",
+  "sourceDirName": "typescript",
+  "slug": "/typescript/config",
+  "permalink": "/tadarim.github.io/docs/typescript/config",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/typescript/config.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "基础",
+    "permalink": "/tadarim.github.io/docs/typescript/basic"
+  },
+  "next": {
+    "title": "声明文件",
+    "permalink": "/tadarim.github.io/docs/typescript/declaration"
+  }
+}

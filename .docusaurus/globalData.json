@@ -1,0 +1,488 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/tadarim.github.io/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tadarim.github.io/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "编程题",
+              "path": "/tadarim.github.io/docs/编程题",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "编译原理",
+              "path": "/tadarim.github.io/docs/编译原理",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "代码段记录",
+              "path": "/tadarim.github.io/docs/代码段记录",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "第三方库",
+              "path": "/tadarim.github.io/docs/第三方库",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "计算机网络",
+              "path": "/tadarim.github.io/docs/计算机网络",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "面试题",
+              "path": "/tadarim.github.io/docs/面试题",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "排序",
+              "path": "/tadarim.github.io/docs/排序",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "其它",
+              "path": "/tadarim.github.io/docs/其它",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "前端安全",
+              "path": "/tadarim.github.io/docs/前端安全",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "设计模式",
+              "path": "/tadarim.github.io/docs/设计模式",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "数据结构",
+              "path": "/tadarim.github.io/docs/数据结构",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "网站优化",
+              "path": "/tadarim.github.io/docs/网站优化",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "写在前面",
+              "path": "/tadarim.github.io/docs/写在前面",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "异常处理",
+              "path": "/tadarim.github.io/docs/异常处理",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "音视频学习",
+              "path": "/tadarim.github.io/docs/音视频学习",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "akara的考验",
+              "path": "/tadarim.github.io/docs/akara的考验",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "browser",
+              "path": "/tadarim.github.io/docs/browser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "canvas",
+              "path": "/tadarim.github.io/docs/canvas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "css",
+              "path": "/tadarim.github.io/docs/css",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker",
+              "path": "/tadarim.github.io/docs/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "git",
+              "path": "/tadarim.github.io/docs/git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HTML",
+              "path": "/tadarim.github.io/docs/HTML",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/前端工程化",
+              "path": "/tadarim.github.io/docs/infra/前端工程化",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Babel",
+              "path": "/tadarim.github.io/docs/infra/Babel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/CI",
+              "path": "/tadarim.github.io/docs/infra/CI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/ESLint-and-Prettier",
+              "path": "/tadarim.github.io/docs/infra/ESLint-and-Prettier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/PostCSS",
+              "path": "/tadarim.github.io/docs/infra/PostCSS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Prettier",
+              "path": "/tadarim.github.io/docs/infra/Prettier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Rollup",
+              "path": "/tadarim.github.io/docs/infra/Rollup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Test",
+              "path": "/tadarim.github.io/docs/infra/Test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "infra/Webpack",
+              "path": "/tadarim.github.io/docs/infra/Webpack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/tadarim.github.io/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/对象",
+              "path": "/tadarim.github.io/docs/javascript/对象",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/函数",
+              "path": "/tadarim.github.io/docs/javascript/函数",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/数组",
+              "path": "/tadarim.github.io/docs/javascript/数组",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/杂项",
+              "path": "/tadarim.github.io/docs/javascript/杂项",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/正则",
+              "path": "/tadarim.github.io/docs/javascript/正则",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/装饰器",
+              "path": "/tadarim.github.io/docs/javascript/装饰器",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/AJAX",
+              "path": "/tadarim.github.io/docs/javascript/AJAX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/basic",
+              "path": "/tadarim.github.io/docs/javascript/basic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/BOM",
+              "path": "/tadarim.github.io/docs/javascript/BOM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Class",
+              "path": "/tadarim.github.io/docs/javascript/Class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Date",
+              "path": "/tadarim.github.io/docs/javascript/Date",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/DOM",
+              "path": "/tadarim.github.io/docs/javascript/DOM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Generator",
+              "path": "/tadarim.github.io/docs/javascript/Generator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/javascript",
+              "path": "/tadarim.github.io/docs/javascript/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Promise",
+              "path": "/tadarim.github.io/docs/javascript/Promise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Proxy",
+              "path": "/tadarim.github.io/docs/javascript/Proxy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "javascript/Set-Map",
+              "path": "/tadarim.github.io/docs/javascript/Set-Map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "koa",
+              "path": "/tadarim.github.io/docs/koa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "linux",
+              "path": "/tadarim.github.io/docs/linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mongodb",
+              "path": "/tadarim.github.io/docs/mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mysql",
+              "path": "/tadarim.github.io/docs/mysql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/build-in-modules",
+              "path": "/tadarim.github.io/docs/node/build-in-modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/eventloop",
+              "path": "/tadarim.github.io/docs/node/eventloop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/library",
+              "path": "/tadarim.github.io/docs/node/library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/module",
+              "path": "/tadarim.github.io/docs/node/module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/node",
+              "path": "/tadarim.github.io/docs/node/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/npm",
+              "path": "/tadarim.github.io/docs/node/npm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/pnpm",
+              "path": "/tadarim.github.io/docs/node/pnpm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/publish",
+              "path": "/tadarim.github.io/docs/node/publish",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "node/stream",
+              "path": "/tadarim.github.io/docs/node/stream",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "others",
+              "path": "/tadarim.github.io/docs/others",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "php",
+              "path": "/tadarim.github.io/docs/php",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react-vs-vue",
+              "path": "/tadarim.github.io/docs/react-vs-vue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/第三方库",
+              "path": "/tadarim.github.io/docs/react/第三方库",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/基础",
+              "path": "/tadarim.github.io/docs/react/基础",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/进阶",
+              "path": "/tadarim.github.io/docs/react/进阶",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/Hook",
+              "path": "/tadarim.github.io/docs/react/Hook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/React",
+              "path": "/tadarim.github.io/docs/react/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "react/types",
+              "path": "/tadarim.github.io/docs/react/types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rust/advanced",
+              "path": "/tadarim.github.io/docs/rust/advanced",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rust/index",
+              "path": "/tadarim.github.io/docs/rust/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rust/modules",
+              "path": "/tadarim.github.io/docs/rust/modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rust/setup",
+              "path": "/tadarim.github.io/docs/rust/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rust/tauri",
+              "path": "/tadarim.github.io/docs/rust/tauri",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rust/wasm",
+              "path": "/tadarim.github.io/docs/rust/wasm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/版本更新日志.mdx",
+              "path": "/tadarim.github.io/docs/typescript/版本更新日志.mdx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/工具类型",
+              "path": "/tadarim.github.io/docs/typescript/工具类型",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/类型操作.mdx",
+              "path": "/tadarim.github.io/docs/typescript/类型操作.mdx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/类型断言",
+              "path": "/tadarim.github.io/docs/typescript/类型断言",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/类型守卫",
+              "path": "/tadarim.github.io/docs/typescript/类型守卫",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/逆变与协变",
+              "path": "/tadarim.github.io/docs/typescript/逆变与协变",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/声明合并",
+              "path": "/tadarim.github.io/docs/typescript/声明合并",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/basic",
+              "path": "/tadarim.github.io/docs/typescript/basic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/config",
+              "path": "/tadarim.github.io/docs/typescript/config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/declaration",
+              "path": "/tadarim.github.io/docs/typescript/declaration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "typescript/typescript",
+              "path": "/tadarim.github.io/docs/typescript/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Untitled",
+              "path": "/tadarim.github.io/docs/Untitled",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vue",
+              "path": "/tadarim.github.io/docs/vue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "webgl",
+              "path": "/tadarim.github.io/docs/webgl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "websocket",
+              "path": "/tadarim.github.io/docs/websocket",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/tadarim.github.io/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "javascript/对象",
+  "id": "javascript/对象",
+  "title": "Object",
+  "description": "new操作符",
+  "source": "@site/docs/javascript/对象.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/对象",
+  "permalink": "/tadarim.github.io/docs/javascript/对象",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/对象.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Function",
+    "permalink": "/tadarim.github.io/docs/javascript/函数"
+  },
+  "next": {
+    "title": "Array",
+    "permalink": "/tadarim.github.io/docs/javascript/数组"
+  }
+}

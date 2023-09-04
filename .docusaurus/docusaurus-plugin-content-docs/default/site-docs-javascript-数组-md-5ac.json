@@ -1,0 +1,24 @@
+{
+  "unversionedId": "javascript/数组",
+  "id": "javascript/数组",
+  "title": "Array",
+  "description": "数组判断",
+  "source": "@site/docs/javascript/数组.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/数组",
+  "permalink": "/tadarim.github.io/docs/javascript/数组",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/数组.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Object",
+    "permalink": "/tadarim.github.io/docs/javascript/对象"
+  },
+  "next": {
+    "title": "杂项",
+    "permalink": "/tadarim.github.io/docs/javascript/杂项"
+  }
+}

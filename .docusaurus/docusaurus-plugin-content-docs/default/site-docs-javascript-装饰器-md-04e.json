@@ -1,0 +1,24 @@
+{
+  "unversionedId": "javascript/装饰器",
+  "id": "javascript/装饰器",
+  "title": "Decorator",
+  "description": "",
+  "source": "@site/docs/javascript/装饰器.md",
+  "sourceDirName": "javascript",
+  "slug": "/javascript/装饰器",
+  "permalink": "/tadarim.github.io/docs/javascript/装饰器",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/javascript/装饰器.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RegExp",
+    "permalink": "/tadarim.github.io/docs/javascript/正则"
+  },
+  "next": {
+    "title": "koa",
+    "permalink": "/tadarim.github.io/docs/koa"
+  }
+}
